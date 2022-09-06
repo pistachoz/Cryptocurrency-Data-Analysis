@@ -44,7 +44,8 @@ At the time of the analysis,
 - With a candlestick chart, there has been a symmetric pattern in the different crypto coin prices for the past four years, and this is said to happen when buyers and sellers become indecisive about the market. There were bullish and bearish trends at different points in time, and the volumes of the coins were seen to drop over time due to this pattern.
 
  - The USDT market trend is very volatile and should be avoided as much as possible. It's not so clear when you should buy and sell in that market.
-The Moving averages of coins against their Close Prices show that the Bitcoin market is currently neither bullish nor bearish, while ETC and MATIC markets show a bullish trend which indicates a good time to trade on those coins.
+ 
+ - The Moving averages of coins against their Close Prices show that the Bitcoin market is currently neither bullish nor bearish, while ETC and MATIC markets show a bullish trend which indicates a good time to trade on those coins.
 
 # Dashboard Report
 
