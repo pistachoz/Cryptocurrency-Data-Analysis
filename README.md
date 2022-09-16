@@ -49,6 +49,6 @@ At the time of the analysis,
 
 # Dashboard Report
 
-Here’s a link to a Dasboard report that I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
+Here’s a link to a Dasboard report that I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models in Power BI to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
 
 With an active Power BI Service account, you can access the dashboard here - https://bit.ly/cryptocurrency_data_analysis
