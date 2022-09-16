@@ -4,7 +4,7 @@
 
 In this end-to-end project, the dataset contains cryptocurrencies live data that was scrapped from [Cryptowatch](https://cryptowat.ch/), a popular charting & trading terminal for cryptocurrency markets. This market data is solely about the Crypto market transaction done on the Binance Exchange platform.
 
-The goal of this project is to analyze the market trends and movements of the 10 top cryptocurrencies for the past four years, starting from 1st September 2018 (2018-09-01) to 5th September 2022 (2022-09-05).
+The goal of this project is to analyze the market trends and movements of **top 10 cryptocurrencies for the past four years**, starting from 1st September 2018 (2018-09-01) to 5th September 2022 (2022-09-05).
 
 The dataset consists of 27,585 rows and 9 columns in total. The columns include CloseTime, OpenPrice, HighPrice, LowPrice, ClosePrice, volume, MarketCap, Symbol, and Name. 6 of the features are in a string (object) data type while three were in a float data type.
 
