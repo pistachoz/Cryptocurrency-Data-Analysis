@@ -37,7 +37,7 @@ The dataset columns include:
 After the dataset was wrangled and analyzed thoroughly, I found the following insights:
 At the time of the analysis, 
 
- - Ripple (XRP) currently has the highest percentage market cap value which is about 4.840165M% followed by Bitcoin (BTC) and Ethereum (ETH) whose percentage change of market price value is about 3.903218M% and 2.866002M% respectively.
+ - As of 5th September 2022, Ripple (XRP) had the highest percentage market cap value which is about 4.840165M% followed by Bitcoin (BTC) and Ethereum (ETH) whose percentage change of market price value is about 3.903218M% and 2.866002M% respectively.
  
  - Bitcoin's (BTC) Close price has always had the highest High Price and makes the high price of other cryptocurrencies invincible. Ethereum (ETH), Cardona (ADA), and Polygon (MATIC) also showed high Close Prices when compared with other cryptocurrencies. The graph shows that BTC, ADA, ETH, and MATIC had high values for the past four years.
  
