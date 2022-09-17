@@ -4,7 +4,7 @@
 
 In this end-to-end project, the dataset contains cryptocurrencies live data that was scrapped from [Cryptowatch](https://cryptowat.ch/), a popular charting & trading terminal for cryptocurrency markets. This market data is solely about the Crypto market transaction done on the Binance Exchange platform.
 
-The goal of this project is to analyze the market trends and movements of the 10 top cryptocurrencies for the past four years, starting from 1st September 2018 (2018-09-01) to 5th September 2022 (2022-09-05).
+The goal of this project is to analyze the market trends and movements of **top 10 cryptocurrencies for the past four years**, starting from 1st September 2018 (2018-09-01) to 5th September 2022 (2022-09-05).
 
 The dataset consists of 27,585 rows and 9 columns in total. The columns include CloseTime, OpenPrice, HighPrice, LowPrice, ClosePrice, volume, MarketCap, Symbol, and Name. 6 of the features are in a string (object) data type while three were in a float data type.
 
@@ -37,7 +37,7 @@ The dataset columns include:
 After the dataset was wrangled and analyzed thoroughly, I found the following insights:
 At the time of the analysis, 
 
- - Ripple (XRP) currently has the highest percentage market cap value which is about 4.840165M% followed by Bitcoin (BTC) and Ethereum (ETH) whose percentage change of market price value is about 3.903218M% and 2.866002M% respectively.
+ - As of 5th September 2022, Ripple (XRP) had the highest percentage market cap value which is about 4.840165M% followed by Bitcoin (BTC) and Ethereum (ETH) whose percentage change of market price value is about 3.903218M% and 2.866002M% respectively.
  
  - Bitcoin's (BTC) Close price has always had the highest High Price and makes the high price of other cryptocurrencies invincible. Ethereum (ETH), Cardona (ADA), and Polygon (MATIC) also showed high Close Prices when compared with other cryptocurrencies. The graph shows that BTC, ADA, ETH, and MATIC had high values for the past four years.
  
@@ -49,6 +49,6 @@ At the time of the analysis,
 
 # Dashboard Report
 
-Here’s a link to a Dasboard report that I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
+Here’s a link to a Dasboard report that I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models in Power BI to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
 
 With an active Power BI Service account, you can access the dashboard here - https://bit.ly/cryptocurrency_data_analysis
