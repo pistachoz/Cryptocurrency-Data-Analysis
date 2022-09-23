@@ -37,9 +37,9 @@ The dataset columns include:
 After the dataset was wrangled and analyzed thoroughly, I found the following insights:
 At the time of the analysis, 
 
- - As of 5th September 2022, Ripple (XRP) had the highest percentage market cap value which is about 4.840165M% followed by Bitcoin (BTC) and Ethereum (ETH) whose percentage change of market price value is about 3.903218M% and 2.866002M% respectively.
+ - As of 5th September 2022, on that particular day, Ripple (XRP) had the highest percentage market cap value which is about 4.840165M% followed by Bitcoin (BTC) and Ethereum (ETH) whose percentage change of market price value is about 3.903218M% and 2.866002M% respectively.
  
- - Bitcoin's (BTC) Close price has always had the highest High Price and makes the high price of other cryptocurrencies invincible. Ethereum (ETH), Cardona (ADA), and Polygon (MATIC) also showed high Close Prices when compared with other cryptocurrencies. The graph shows that BTC, ADA, ETH, and MATIC had high values for the past four years.
+ - Bitcoin's (BTC) Close price has always been the highest that which makes the high price of other cryptocurrencies invincible. Ethereum (ETH), Cardona (ADA), and Polygon (MATIC) also showed high Close Prices when compared with other cryptocurrencies that were selected. The graph shows that BTC and ETH had high values for the past four years.
  
 - With a candlestick chart, there has been a symmetric pattern in the different crypto coin prices for the past four years, and this is said to happen when buyers and sellers become indecisive about the market. There were bullish and bearish trends at different points in time, and the volumes of the coins were seen to drop over time due to this pattern.
 
@@ -49,6 +49,6 @@ At the time of the analysis,
 
 # Dashboard Report
 
-Here’s a link to a Dasboard report that I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models in Power BI to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
+Here’s a [link](https://www.novypro.com/project/cryptocurrency-data-analysis) to a Dasboard report that I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models in Power BI to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
 
-With an active Power BI Service account, you can access the dashboard here - https://bit.ly/cryptocurrency_data_analysis
+You can also read my blog post on this project.
