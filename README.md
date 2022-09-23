@@ -51,4 +51,4 @@ At the time of the analysis,
 
 Here’s a link to a [Dashboard Report](https://www.novypro.com/project/cryptocurrency-data-analysis) I created at the end of this project. It is an interactive report where I utilized the built-in predictive forecasting models in Power BI to forecast future market trends of the selected cryptocurrencies based on 95% confidence values within the next 12 months.
 
-You can also read my [blog](https://medium.com/@chisompromise/the-world-of-digital-assets-cryptocurrency-data-analysis-5a31112945ef)post on this project.
+You can also read my [blog](https://medium.com/@chisompromise/the-world-of-digital-assets-cryptocurrency-data-analysis-5a31112945ef) post on this project.
