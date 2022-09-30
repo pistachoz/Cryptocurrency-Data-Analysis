@@ -1,0 +1,15 @@
+## The requirements needed for the successfulll running of this project:
+
+ - python (version 3.9.12)
+ 
+ - pandas (version 1.4.2)
+
+ - seaborn (version 0.11.2)
+
+ - matplotlib (version 3.4.1)
+
+ - plotly (version 5.10.0)
+
+ - requests (version 2.27.1)
+
+ - BeautifulSoup (version 4.11.1)
